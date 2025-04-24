@@ -1,7 +1,7 @@
-
+cloud 
 # Hi, I’m Saif Hasan 👋
 
-I’m a passionate backend developer with a B.Tech in Computer Science & Engineering from IEM Kolkata (GPA: 9.02). I love building scalable web applications, solving real-world problems, and continuously sharpening my skills in technology and cybersecurity.
+I’m a passionate Fullstack developer with a B.Tech in Computer Science & Engineering from IEM Kolkata (GPA: 9.05). I love building scalable web applications, solving real-world problems, and continuously sharpening my skills in technology.
 
 ## 🚀 Skills & Technologies
 
@@ -21,7 +21,7 @@ A video-sharing platform with tweet-like posts, direct interactions, and a 1–1
 - Scalable architecture ready for NGINX load balancing and PM2 clustering
 
 ### RoomConnect (MERN Stack)
-An extension of Room Mate Finder offering both full-flat rentals and shared-room matching.
+An platform offering flat/apartment rentals options and finiding shared-room partner .
 - Enhanced compatibility checks with user profiles
 - Real-time chat and notifications
 
@@ -35,14 +35,13 @@ An extension of Room Mate Finder offering both full-flat rentals and shared-room
 ## 🎯 Goals & Aspirations
 
 - Emerge as a Senior Backend Developer within the next five years
-- Deepen expertise in scalable system design, cloud infrastructure, and cybersecurity
-- Contribute to open-source projects and mentor aspiring developers
+- Deepen expertise in scalable system design, cloud infrastructure and distributed systems
+- Contribute to open-source projects and learn from the community
 
 ## 📫 Get in Touch
 
-- **Email:** saif.hasan@example.com
-- **LinkedIn:** [linkedin.com/in/saifhasan](https://www.linkedin.com/in/saifhasan)
-- **Portfolio:** [roommatefinder.dev](https://roommatefinder.dev)
+- **Email:** saifhasan929@gmail.com
+- **LinkedIn:** [linkedin.com/in/the-saif-hasan](https://www.linkedin.com/in/the-saif-hasan/)
 
 ---
 
